@@ -1,0 +1,49 @@
+body{
+  background-color: black;
+}
+.title,
+.guide,
+.phone{
+  font-family: Verdana;
+  color: White;
+  text-align: center;
+}
+#coming_soon{
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+/* unvisited link */
+a:link{
+  color: Aquamarine;
+}
+/* visited link */
+a:visited {
+    color: Aquamarine;
+}
+.title{
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+}
+.guide{
+  font-weight: 300;
+  font-size: 42px;
+}
+.excursion_remembers{
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+  text-align: center;
+}
+.cell_phone{
+  text-align: center;
+}
+.phone{
+  font-weight: 300;
+  font-size: 42px;
+}
+.copyrite{
+  text-align: right;
+  color: Gray;
+}
